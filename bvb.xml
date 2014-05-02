@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--<!DOCTYPE gpoReference SYSTEM "../dtd/gpo.dtd" PUBLIC "-//NA//DTD DITA Egov GPO//EN">-->
+<gpoReference xml:lang="en-us" id="gpoTable">
+<?Pub *0000196756?>
+<gpoBody>
+<BVB>
+    
+<BRANCH>
+<branch-number>001</branch-number>
+<branch-title>Information Science And Engineering</branch-title>
+<number-of-staffs>15</number-of-staffs>
+<Email>ISE_BVB@gmail.com</Email>
+<branch-website>www.ise_bvb.edu</branch-website>
+</BRANCH>
+
+<BRANCH>
+<branch-number>002</branch-number>
+<branch-title>Computer Science And Engineering</branch-title>
+<number-of-staffs>20</number-of-staffs>
+<Email>CSE_BVB@gmail.com</Email>
+<branch-website>www.cse_bvb.edu</branch-website>
+</BRANCH>
+
+<BRANCH>
+<branch-number>003</branch-number>
+<branch-title>Mechanical Engineering</branch-title>
+<number-of-staffs>10</number-of-staffs>
+<Email>Mech_BVB@gmail.com</Email>
+<branch-website>www.mech_bvb.edu</branch-website>
+</BRANCH>
+
+  <BRANCH>
+<branch-number>004</branch-number>
+<branch-title>Civil Engineering</branch-title>
+<number-of-staffs>10</number-of-staffs>
+<Email>civil_BVB@gmail.com</Email>
+<branch-website>www.civil_bvb.edu</branch-website>
+</BRANCH>
+
+<BRANCH>
+<branch-number>005</branch-number>
+<branch-title>Automobile Engineering</branch-title>
+<number-of-staffs>10</number-of-staffs>
+<Email>Auto_BVB@gmail.com</Email>
+<branch-website>www.auto_bvb.edu</branch-website>
+</BRANCH>
+
+<BRANCH>
+<branch-number>006</branch-number>
+<branch-title>Robotics Engineering</branch-title>
+<number-of-staffs>10</number-of-staffs>
+<Email>robo_BVB@gmail.com</Email>
+<branch-website>www.robo_bvb.edu</branch-website>
+</BRANCH>
+
+<BRANCH>
+<branch-number>007</branch-number>
+<branch-title>EC Engineering</branch-title>
+<number-of-staffs>19</number-of-staffs>
+<Email>EC_BVB@gmail.com</Email>
+<branch-website>www.ec_bvb.edu</branch-website>
+</BRANCH>
+
+<BRANCH>
+<branch-number>008</branch-number>
+<branch-title>Electrical Engineering</branch-title>
+<number-of-staffs>09</number-of-staffs>
+<Email>Electrical_BVB@gmail.com</Email>
+<branch-website>www.electrical_bvb.edu</branch-website>
+</BRANCH>
+
+<BRANCH>
+<branch-number>009</branch-number>
+<branch-title>MCA</branch-title>
+<number-of-staffs>15</number-of-staffs>
+<Email>MCA_BVB@gmail.com</Email>
+<branch-website>www.MCA_bvb.edu</branch-website>
+</BRANCH>
+<BRANCH>
+<branch-number>010</branch-number>
+<branch-title>MBA Engineering</branch-title>
+<number-of-staffs>19</number-of-staffs>
+<Email>MBA_BVB@gmail.com</Email>
+<branch-website>www.MBA_bvb.edu</branch-website>
+</BRANCH>
+
+<BRANCH>
+<branch-number>011</branch-number>
+<branch-title>BioTechnology Engineering</branch-title>
+<number-of-staffs>13</number-of-staffs>
+<Email>BT_BVB@gmail.com</Email>
+<branch-website>www.bt_bvb.edu</branch-website>
+</BRANCH>
+
+<BRANCH>
+<branch-number>012</branch-number>
+<branch-title>Instrumnet Technology</branch-title>
+<number-of-staffs>11</number-of-staffs>
+<Email>IT_BVB@gmail.com</Email>
+<branch-website>www.it_bvb.edu</branch-website>
+</BRANCH>
+
+<BRANCH>
+<branch-number>013</branch-number>
+<branch-title>Architecture</branch-title>
+<number-of-staffs>19</number-of-staffs>
+<Email>ARCH_BVB@gmail.com</Email>
+<branch-website>www.arch_bvb.edu</branch-website>
+</BRANCH>
+
+<BRANCH>
+<branch-number>014</branch-number>
+<branch-title>Industrial Production</branch-title>
+<number-of-staffs>9</number-of-staffs>
+<Email>IP_BVB@gmail.com</Email>
+<branch-website>www.ip_bvb.edu</branch-website>
+</BRANCH>
+
+<BRANCH>
+<branch-number>015</branch-number>
+<branch-title>EE Engineering</branch-title>
+<number-of-staffs>21</number-of-staffs>
+<Email>EE_BVB@gmail.com</Email>
+<branch-website>www.ee_bvb.edu</branch-website>
+</BRANCH>
+
+<BRANCH>
+<branch-number>016</branch-number>
+<branch-title>Machatranics</branch-title>
+<number-of-staffs>11</number-of-staffs>
+<Email>Machatranics_BVB@gmail.com</Email>
+<branch-website>www.machatranics_bvb.edu</branch-website>
+</BRANCH>
+
+</BVB>
+                                                                                                                                                                                                                                                                            </gpoBody>
+                                                                                                                                                                                                                                                                               </gpoReference>
